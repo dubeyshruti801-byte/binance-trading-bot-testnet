@@ -1,0 +1,4 @@
+2026-02-25 23:26:09,004 | INFO | orders | Order payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-25 23:26:09,008 | INFO | client | Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1772042169005, 'signature': '3f2236a553642b20d847f465e4fee8c7499d1f9f1cc082cecfb9ed6b8e69c484'}
+2026-02-25 23:26:10,565 | ERROR | client | API Error: 401 {"code":-2014,"msg":"API-key format invalid."}
+2026-02-25 23:26:10,565 | INFO | client | Response: {"code":-2014,"msg":"API-key format invalid."}
